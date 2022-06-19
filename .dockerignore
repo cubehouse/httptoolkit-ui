@@ -1,0 +1,9 @@
+.github
+.vscode
+Dockerfile
+.DS_store
+node_modules
+dist/
+.env
+meta/
+*.tsbuildinfo
